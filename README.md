@@ -5,6 +5,9 @@ of symbols and only produces a unique computation of the automaton for each inpu
 The program can read, show, minimize and export a DFA. Besides it can show the dead states and analyze a
 string to see if it belongs to the DFA.
 
+## Author
+Ángel Luis Igareta Herráiz
+
 ## INDEX
 * [Usage](#usage)
 * [License](#license)
